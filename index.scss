@@ -8,6 +8,8 @@
   "body";
   padding: 2rem;
   row-gap: 2rem;
+  background: #FAFAFA;
+  width: 100vw;
 }
 
 .header{
@@ -17,7 +19,6 @@
   "header-top"
   "header-bottom";
   row-gap: 2rem;
-  background: #FAFAFA;
 }
 
 .header__top{
